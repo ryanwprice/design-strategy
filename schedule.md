@@ -18,7 +18,7 @@ permalink: /schedule/
 - [KWHL Table](/assets/wk01/KWHL-table_activity.xd)
 - [Microsoft Inclusive Design](/assets/wk1/microsoft-inclusive-design_lecture.pdf)
 - [Microsoft Inclusive Design toolkit](/assets/wk01/microsoft-inclusive-design-tool-kit_activity.pdf)
-- [Project Planning](/assets/wk01/project-plan_activity.xlsx)
+<!-- - [Project Planning](/assets/wk01/project-plan_activity.xlsx) -->
 
 
 ### Supplemental Resources
