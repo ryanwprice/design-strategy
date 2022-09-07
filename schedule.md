@@ -46,7 +46,7 @@ permalink: /schedule/
 - [Research Analysis](/assets/wk02/JennVisockyOGra_2017_ResearchAnalysis_ADesignersResearchMan.pdf)
 - [Sample Framework to Help Structure](/assets/wk02/JennVisockyOGra_2017_SampleFrameworkToHelp_ADesignersResearchMan.pdf)
 
-<!--  WEEK 02 -->
+<!--  WEEK 03 -->
 
 ## Week 03 — 2022-09-21
 
@@ -54,10 +54,10 @@ permalink: /schedule/
 - [Arrays & Loops](hthttps://web.microsoftstream.com/video/4a5d8b30-7cfa-4583-87dd-17ee02ee5d7f)
 
 ### Sync
-- [Developing a Research Methodology](/assets/wk01/developing-a-research-methodology_lecture.pdf)
+- TBD
 
 ### Supplemental Resources
-- [KWHL Tables](/assets/wk01/JennVisockyOGra_2017_KWHLTables_ADesignersResearchMan.pdf)
+- TBD
 
 <!-- WEEK 04 -->
 
@@ -67,10 +67,10 @@ permalink: /schedule/
 - [Functions](https://web.microsoftstream.com/video/d8c228cb-7f6c-45dc-b407-a23b857fc49c)
 
 ### Sync
-- [Developing a Research Methodology](/assets/wk01/developing-a-research-methodology_lecture.pdf)
+- TBD
 
 ### Supplemental Resources
-- [KWHL Tables](/assets/wk01/JennVisockyOGra_2017_KWHLTables_ADesignersResearchMan.pdf)
+- TBD
 
 <!-- WEEK 05 -->
 
@@ -80,10 +80,10 @@ permalink: /schedule/
 - [Objects](hthttps://web.microsoftstream.com/video/c6b478cd-de0a-468a-8360-e9bd3cfe8dce)
 
 ### Sync
-- [Developing a Research Methodology](/assets/wk01/developing-a-research-methodology_lecture.pdf)
+- TBD
 
 ### Supplemental Resources
-- [KWHL Tables](/assets/wk01/JennVisockyOGra_2017_KWHLTables_ADesignersResearchMan.pdf)
+-TBD
 
 
 
