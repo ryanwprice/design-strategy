@@ -52,12 +52,14 @@ permalink: /schedule/
 
 ### Async
 - [Arrays & Loops](hthttps://web.microsoftstream.com/video/4a5d8b30-7cfa-4583-87dd-17ee02ee5d7f)
+- [Narrative as a Design Tool](/assets/wk03/narrative-article_reading.pdf)
 
 ### Sync
-- TBD
+- [Context Scenario](/assets/wk03/context-scenario_activity.xd)
 
 ### Supplemental Resources
-- TBD
+- [Context Scenario Example](/assets/wk03/context-scenario_example.pdf)
+- [Empathy Map template](/assets/wk03/empathy-map_blank.pdf)
 
 <!-- WEEK 04 -->
 
