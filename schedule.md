@@ -51,7 +51,7 @@ permalink: /schedule/
 ## Week 03 — 2022-09-21
 
 ### Async
-- [Arrays & Loops](hthttps://web.microsoftstream.com/video/4a5d8b30-7cfa-4583-87dd-17ee02ee5d7f)
+- [Arrays & Loops](https://web.microsoftstream.com/video/4a5d8b30-7cfa-4583-87dd-17ee02ee5d7f)
 - [Narrative as a Design Tool](/assets/wk03/narrative-article_reading.pdf)
 
 ### Sync
