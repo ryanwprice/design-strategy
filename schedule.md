@@ -55,6 +55,8 @@ permalink: /schedule/
 - [Narrative as a Design Tool](/assets/wk03/narrative-article_reading.pdf)
 
 ### Sync
+- [Arrays & Loops lecture](/assets/wk03/computation-video-slides_wk3_arrays-loops.pdf)
+- [Narrative & Context Scenarios](/assets/wk03/context-scenarios_lecture.pdf)
 - [Context Scenario](/assets/wk03/context-scenario_activity.xd)
 
 ### Supplemental Resources
