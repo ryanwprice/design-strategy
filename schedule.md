@@ -71,10 +71,11 @@ permalink: /schedule/
 - [Functions](https://web.microsoftstream.com/video/d8c228cb-7f6c-45dc-b407-a23b857fc49c)
 
 ### Sync
-- TBD
+- [Design Requirement lecture](/assets/wk04/design-requirements_lecture.pdf)
+- [Design Requirements Activity](/assets/wk04/design-requirement_activity.xd)
 
 ### Supplemental Resources
-- TBD
+- _none_
 
 <!-- WEEK 05 -->
 
