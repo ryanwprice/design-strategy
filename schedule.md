@@ -92,7 +92,36 @@ permalink: /schedule/
 - [Reading Reflection Activity](/assets/wk05/reading_reflection-activity.pdf)
 
 ### Supplemental Resources
--TBD
+- _none_
+
+<!-- WWeek 06 -->
+
+## Week 06 — 2022-10-12
+
+### Async
+- _none_
+
+### Sync
+- [Study Sheet Questions](/assets/wk06/Study-Sheet-Questions.pdf)
+- **Assignment 1 Due**
+
+### Supplemental Resources
+- _none_
+
+<!-- Week 07 -->
+
+## Week 07 — 2022-10-19
+
+### Async
+- _none_
+
+### Sync
+- **Assignment One Quiz**
+
+### Supplemental Resources
+- _none_
+
+
 
 
 
