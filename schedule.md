@@ -69,6 +69,7 @@ permalink: /schedule/
 
 ### Async
 - [Functions](https://web.microsoftstream.com/video/d8c228cb-7f6c-45dc-b407-a23b857fc49c)
+- [Functions slides](/assets/wk04/computation-video-slides_wk4_functions.pdf)
 
 ### Sync
 - [Design Requirement lecture](/assets/wk04/design-requirements_lecture.pdf)
