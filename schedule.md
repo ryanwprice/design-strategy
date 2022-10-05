@@ -69,9 +69,10 @@ permalink: /schedule/
 
 ### Async
 - [Functions](https://web.microsoftstream.com/video/d8c228cb-7f6c-45dc-b407-a23b857fc49c)
-- [Functions slides](/assets/wk04/computation-video-slides_wk4_functions.pdf)
+
 
 ### Sync
+- [Functions slides](/assets/wk04/computation-video-slides_wk4_functions.pdf)
 - [Design Requirement lecture](/assets/wk04/design-requirements_lecture.pdf)
 - [Design Requirements Activity](/assets/wk04/design-requirement_activity.xd)
 
@@ -86,7 +87,9 @@ permalink: /schedule/
 - [Objects](hthttps://web.microsoftstream.com/video/c6b478cd-de0a-468a-8360-e9bd3cfe8dce)
 
 ### Sync
-- TBD
+- [Objects](/assets/wk05/computation-video-slides_wk5_objects.pdf)
+- [Reflective Writing lecture](/assets/wk05/reflective-writing_lecture.pdf)
+- [Reading Reflection Activity](/assets/wk05/reading_reflection-activity.pdf)
 
 ### Supplemental Resources
 -TBD
