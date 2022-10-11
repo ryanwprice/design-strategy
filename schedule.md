@@ -84,7 +84,7 @@ permalink: /schedule/
 ## Week 05 — 2022-10-05
 
 ### Async
-- [Objects](hthttps://web.microsoftstream.com/video/c6b478cd-de0a-468a-8360-e9bd3cfe8dce)
+- [Objects](https://web.microsoftstream.com/video/c6b478cd-de0a-468a-8360-e9bd3cfe8dce)
 
 ### Sync
 - [Objects](/assets/wk05/computation-video-slides_wk5_objects.pdf)
