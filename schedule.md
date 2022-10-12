@@ -18,6 +18,7 @@ permalink: /schedule/
 - [KWHL Table](/assets/wk01/KWHL-table_activity.xd)
 - [Microsoft Inclusive Design](/assets/wk1/microsoft-inclusive-design_lecture.pdf)
 - [Microsoft Inclusive Design toolkit](/assets/wk01/microsoft-inclusive-design-tool-kit_activity.pdf)
+- [Variables slides](/assets/wk01/computation-video-slides_wk1_variables.pdf)
 <!-- - [Project Planning](/assets/wk01/project-plan_activity.xlsx) -->
 
 
@@ -25,7 +26,7 @@ permalink: /schedule/
 
 - [KWHL Tables](/assets/wk01/JennVisockyOGra_2017_KWHLTables_ADesignersResearchMan.pdf)
 - [Research Planning](/assets/wk01/JennVisockyOGra_2017_ResearchPlanning_ADesignersResearchMan.pdf)
-- [Literature Review](/assets/wk01/JennVisockyOGra_2017_StrategyLiteratureRev_ADesignersResearchMan.pdf)
+- [Literature Review](/assets/wk01/computation-video-slides_wk1_variables.pdfJennVisockyOGra_2017_StrategyLiteratureRev_ADesignersResearchMan.pdf)
 - [Triangulation](/assets/wk01/JennVisockyOGra_2017_Triangulation_ADesignersResearchMan.pdf)
 
 <!-- week 02 -->
@@ -40,6 +41,7 @@ permalink: /schedule/
 - [Research Findings](/assets/wk02/research_findings_lecture.pdf)
 - [Microsoft Inclusive Design toolkit](/assets/wk01/microsoft-inclusive-design-tool-kit_activity.pdf)
 - [Spradley Matrix](/assets/wk02/spradley-matrix.pdf)
+- [Conditionals slides](/assets/wk02/computation-video-slides_wk2_conditionals.pdf)
 
 ### Supplemental Resources
 - [An Ethnographic ENquiry into Digital Design Tool Making](/assets/wk02/caadria2020_209.pdf)
@@ -87,7 +89,7 @@ permalink: /schedule/
 - [Objects](https://web.microsoftstream.com/video/c6b478cd-de0a-468a-8360-e9bd3cfe8dce)
 
 ### Sync
-- [Objects](/assets/wk05/computation-video-slides_wk5_objects.pdf)
+- [Objects lecture](/assets/wk05/computation-video-slides_wk5_objects.pdf)
 - [Reflective Writing lecture](/assets/wk05/reflective-writing_lecture.pdf)
 - [Reading Reflection Activity](/assets/wk05/reading_reflection-activity.pdf)
 
