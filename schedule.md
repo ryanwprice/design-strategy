@@ -123,6 +123,24 @@ permalink: /schedule/
 ### Supplemental Resources
 - _none_
 
+<!-- Week 08 -->
+
+## Week 09 — 2022-11-02
+
+### Async
+- _none_
+
+### Sync
+
+- [Prototypeing lofi lecture](/assets/wk08/prototyping-lofi_lecture.pdf)
+- [Pseudocode lecture](/assets/wk08/pseudocode_lecture.pdf)
+- [User Journey Map lecture](/assets/wk08/user-journey-maps_lecture.pdf)
+- [User Journey Map activity](/assets/wk08/user-journey-map_activity.xd)
+- [lofi Prototype activity](/assets/wk08/lofi-prototype_activity.xd)
+
+### Supplemental Resources
+- [Sample Framework to Help Empathize](/assets/wk08/supplementary-resources/JennVisockyOGra_2017_SampleFrameworkToHelp_ADesignersResearchMan.pdf)
+
 
 
 
