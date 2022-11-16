@@ -125,7 +125,7 @@ permalink: /schedule/
 
 <!-- Week 08 -->
 
-## Week 09 — 2022-11-02
+## Week 08 — 2022-11-02
 
 ### Async
 - _none_
@@ -140,6 +140,28 @@ permalink: /schedule/
 
 ### Supplemental Resources
 - [Sample Framework to Help Empathize](/assets/wk08/supplementary-resources/JennVisockyOGra_2017_SampleFrameworkToHelp_ADesignersResearchMan.pdf)
+
+<!-- Week 10 -->
+
+## Week 10 — 2022-11-16
+
+### Async
+- _none_
+
+### Sync
+
+- [Applying Branding lecture](/assets/wk09/applying-branding_lecture.pdf)
+- [Humane Interface lecture](/assets/wk09/humane-interfaces_lecture.pdf)
+- [Prototyping Hifi lecture](/assets/wk10/prototyping-hifi_lecture.pdf)
+- [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)
+- [What's a JS Library?](https://www.khanacademy.org/computing/computer-programming/html-css-js/using-js-libraries-in-your-webpage/a/whats-a-js-library)
+- [Material Design UI activity](/assets/wk10/xd-resources-material-design-ui_activity.xd)
+- 
+
+### Supplemental Resources
+- [Usability Testing 101](/assets/wk09/supplemental-resources/Usability-Testing-101_SizeA4.pdf)
+- [Preparing for Prototype/User Testing](https://ryanwprice.github.io/ixd-behaviours/assets/preparing-for-user-testing.pdf)
+- [Usability Testing Script](https://ryanwprice.github.io/ixd-behaviours/assets/testing-script.pdf)
 
 
 
